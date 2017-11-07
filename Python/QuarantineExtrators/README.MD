@@ -1,1 +1,1 @@
-MalwareDefenderDecryper.py Extract Malware Defender Quarantine
+MalwareDefenderDecrypter.py Extract Malware Defender Quarantine
