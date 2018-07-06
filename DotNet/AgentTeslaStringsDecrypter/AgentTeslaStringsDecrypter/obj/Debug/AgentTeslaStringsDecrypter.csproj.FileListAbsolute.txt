@@ -1,0 +1,10 @@
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\bin\Debug\AgentTeslaStringsDecrypter.exe.config
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\bin\Debug\AgentTeslaStringsDecrypter.exe
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\bin\Debug\AgentTeslaStringsDecrypter.pdb
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.csprojResolveAssemblyReference.cache
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.Form1.resources
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.Properties.Resources.resources
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.csproj.GenerateResource.Cache
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.exe
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\obj\Debug\AgentTeslaStringsDecrypter.pdb
+D:\Code\AgentTeslaStringsDecrypter\AgentTeslaStringsDecrypter\bin\Debug\dnlib.dll
