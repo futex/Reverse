@@ -1,5 +1,5 @@
 #For ircbot malware sample: d9b2e9d8826cab35e3287a0a35248f40
-#PS: Exec the sample after the xor key creation
+#PS: Exec the sample for appcall execution
 
 from idaapi import *
 import struct
