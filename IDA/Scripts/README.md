@@ -1,3 +1,4 @@
-dump.py  dump a memoray range
-Delphi.py add signatures for Delphi binary
-xorddos-IDA.py unxor the CC adress of a Linux/XORDDOS sample
+dump.py  Dump a memoray range <br/>
+Delphi.py Add signatures for Delphi binary <br/>
+xorddos-IDA.py Unxor the CC adress of a Linux/XORDDOS sample <br/>
+ircbot.py Decrypt strings using Appcall of a generic ircbot malware <br />
